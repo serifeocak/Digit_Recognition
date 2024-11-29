@@ -1,7 +1,7 @@
 # YÜKSEK DÜZEY PROGRAMLAMA PROJE ÖDEVİ
 Şerife Sümeyye OCAK - 202013171046
 
-Rapor Linki:https://github.com/serifeocak/digit_recognizer/blob/main/rapor.pdf
+Rapor Linki:https://github.com/serifeocak/Digit_Recognition/blob/main/rapor.pdf
 
 Kod Linki:https://github.com/serifeocak/Digit_Recognition/blob/main/digit_recognizer/digit-recognition-with-simple-cnn.ipynb
 
